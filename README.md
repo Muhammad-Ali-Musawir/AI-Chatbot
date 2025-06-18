@@ -19,6 +19,7 @@ The models that run offline will take large space. And this models is build by k
 - After doing all this you are now free to use the Chatbot App or use the Source code.
 
 ## 🗂 Project Folder Structure
+```
 Basic Offline Chatbot/
 │
 ├── Chatbot App/                 # Compiled app files
@@ -35,6 +36,7 @@ Basic Offline Chatbot/
 │
 ├── README.md                    # Instructions
 └── LICENSE
+```
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
